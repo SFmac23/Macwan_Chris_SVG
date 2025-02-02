@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167 227">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f0b967;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #010101;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #34b44a;
+      }
+
+      .cls-3 {
+        fill: #75562e;
+      }
+    </style>
+  </defs>
+  <g id="Honey_jar_icon" data-name="Honey jar icon">
+    <path class="cls-1" d="M24.99,226.5c-47.15,0-19.34-183.07,25.42-183.07h64.37c48.94,0,73.6,182.6,26.5,182.6s-69.24.47-116.29.47Z"/>
+    <polygon class="cls-3" points="7.24 52.37 32.33 28.02 129.83 28.02 159.23 52.37 7.24 52.37"/>
+    <rect class="cls-2" x="31.08" y="22.51" width="99.53" height="5.62"/>
+    <rect class="cls-3" x="29.99" y=".5" width="101.69" height="24.82" rx=".27" ry=".27"/>
+  </g>
+</svg>
