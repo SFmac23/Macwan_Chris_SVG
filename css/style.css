@@ -1,36 +1,13 @@
 .icon-box {
     display: flex;
-    gap: 20px;
+    gap: 70px;
 }
 
-.icon1, .icon2, .icon3, .icon4, .icon5, .icon6 {
-    width: 25px;
+.icon {
+    width: 75px;
     transition: transform 0.3s ease-in-out;
 }
 
-.icon1:hover {
+.icon:hover {
     transform: scale(1.2);
 }
-
-.icon2:hover {
-    transform: scale(1.2);
-}
-
-.icon3:hover {
-    transform: scale(1.2);
-}
-
-.icon4:hover {
-    transform: scale(1.2);
-}
-
-.icon5:hover {
-    transform: scale(1.2);
-}
-
-.icon6:hover {
-    transform: scale(1.2);
-}
-
-
-
